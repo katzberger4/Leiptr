@@ -6,7 +6,7 @@
 - iso_-1.5: isochrone for [Fe/H] = -1.5 using GAIA DR2 data at [a/Fe] = 0.4 and age = 12 Gyr
 - iso_-2.0: isochrone for [Fe/H] = -2.0 using GAIA DR2 data at [a/Fe] = 0.4 and age = 12 Gyr
 - iso_-2.49: isochrone for [Fe/H] = -2.49 using GAIA DR2 data at [a/Fe] = 0.4 and age = 12 Gyr
-- leipt-186_c_c_lesspayne: LESSPayne analysis for Leiptr-186 w/ temperature corrections and rebalanced stellar parameters
+- leipt-186_c_c_lesspayne: LESSPayne analysis for Leiptr-186 with temperature corrections and rebalanced stellar parameters
 - leipt-208_c_c_lesspayne: LESSPayne analysis for Leiptr-208 w/ temperature corrections and rebalanced stellar parameters
 - leipt-252_c_c_lesspayne: LESSPayne analysis for Leiptr-252 w/ temperature corrections and rebalanced stellar parameters
 - leipt-321_c_c_lesspayne: LESSPayne analysis for Leiptr-321 w/ temperature corrections and rebalanced stellar parameters
